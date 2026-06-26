@@ -123,10 +123,6 @@ Free, ready-to-use systems for running a one-person company.
 - [Doola](https://www.doola.com/) - Company formation and compliance for solo founders.
 - [Wise](https://wise.com/) - Multi-currency banking for international solo businesses.
 
-## Contributing
-
-Contributions are welcome! Please read the [contribution guidelines](CONTRIBUTING.md) first. Open a pull request to add a resource — keep entries high-signal, accurately described, and relevant to running a profitable one-person company.
-
 ---
 
 Maintained by the team at One Person Company · made with [Tycoon.us](https://tycoon.us)
